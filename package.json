@@ -1,5 +1,5 @@
 {
-  "name": "containership.cs.bridge",
+  "name": "@containership/containership.cs.bridge",
   "version": "0.1.0",
   "description": "Containership CS Bridge",
   "main": "index.js",
